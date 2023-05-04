@@ -6,6 +6,8 @@ You've been traveling all over the world by car. Once in a while you log your cu
 
 Given the travelLog, find the distance in meters that you've traveled by car, starting from the place from the first travelLog entry and ending at the location of the last travelLog entry.
 
+An example of a travelLog is `['New York, NY, USA', '39.851759, -74.765754', 'Washington, DC, USA']`.
+
 ## Useful APIs
 
 In this task you should use the [Google Maps API](https://developers.google.com/maps/documentation/).
