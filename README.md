@@ -6,7 +6,7 @@ You've been traveling all over the world by car. Once in a while you log your cu
 
 Given the travelLog, find the distance in meters that you've traveled by car, starting from the place from the first travelLog entry and ending at the location of the last travelLog entry.
 
-An example of a travelLog is `["New York, NY, USA",  "35.389,-79.1455",  "San Francisco, CA, USA",  "18.4796,-89.3848"]`, the distance in meters for this travelLog is 10185158.
+An example of a travelLog is `["New York, NY, USA",  "35.389,-79.1455",  "San Francisco, CA, USA",  "18.4796,-89.3848"]`, the distance in meters for this travelLog is around 10185158. Note that the distance may vary slightly depending on real time road information.
 
 ## Useful APIs
 
