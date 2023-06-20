@@ -6,9 +6,6 @@
   "author": "Valora Inc",
   "license": "Apache-2.0",
   "private": true,
-  "engines": {
-    "node": "^18"
-  },
   "scripts": {
     "build": "tsc",
     "build:scripts": "tsc --project scripts/tsconfig.json",
