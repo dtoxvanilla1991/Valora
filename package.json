@@ -45,7 +45,6 @@
   },
   "prettier": "@valora/prettier-config",
   "dependencies": {
-    "axios": "^1.4.0",
-    "use-http": "^1.0.28"
+    "axios": "^1.4.0"
   }
 }

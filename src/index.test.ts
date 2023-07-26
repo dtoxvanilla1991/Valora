@@ -14,10 +14,9 @@ describe(main, () => {
     expect(result).toBeGreaterThanOrEqual(validDistance * 0.9)
   })
   // I added this test to make sure that the function would return 0 if there was only one location in the travellog
-      it('should return 0 when there is only one location in the travellog', async ()=> {
-      const travelLog = ['New York, NY, USA'];
-        const result = await main(travelLog);
-          expect(result).toBe(0);
-      })
-
+  it('should return 0 when there is only one location in the travellog', async () => {
+    const travelLog = ['New York, NY, USA']
+    const result = await main(travelLog)
+    expect(result).toBe(0)
+  })
 })
